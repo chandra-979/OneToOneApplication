@@ -1,0 +1,14 @@
+{
+    "customerDTO":{
+        "customerName":"chandra",
+        "phoneNo":"12345678",
+        "emailIdd":"abc@gmail.com",
+        "dateOfBirth":"2022-09-09",
+        "gender":"MALE",
+        "addressDTO":{
+            "street":"xyz",
+            "village":"pqrs",
+            "pincode":12345688
+        }
+    }
+}
